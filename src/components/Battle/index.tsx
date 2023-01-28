@@ -4,7 +4,7 @@ const Battle = () => {
 
   return (
     <Container>
-      Battle 2
+      Battle 3
     </Container>
   )
 }
